@@ -1,0 +1,27 @@
+{
+  "name": "automatic-call",
+  "version": "1.0.0",
+  "description": "Simple instruction, easy to use. Just call out any 2 number and receive total.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "are-arrays": "^1.0.0",
+    "are-objects": "^1.0.0",
+    "automatic-call": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KeanCaplette/automatic-call.git"
+  },
+  "homepage": "https://github.com/KeanCaplette/automatic-call/blob/main/README.md",
+  "keywords": [
+    "sum",
+    "add",
+    "tong",
+    "cong"
+  ],
+  "author": "KeanCaplette",
+  "license": "MIT"
+}
